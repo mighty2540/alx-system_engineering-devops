@@ -1,2 +1,2 @@
-#/bin/bash
-I/O direction
+Intro to I/O redirection
+
